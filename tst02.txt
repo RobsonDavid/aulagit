@@ -8,3 +8,6 @@ volta
 4
 apaguei o 5
 agora vai para o stage
+
+
+testando ferramenta visual.
