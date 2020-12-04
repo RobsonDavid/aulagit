@@ -1,5 +1,5 @@
 linha01
-linha02  tst RB
+changing this line in MASTER.
 agora vai
 changing ....
 new line!!!
