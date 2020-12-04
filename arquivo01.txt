@@ -3,3 +3,4 @@ changing this line in MASTER.
 agora vai
 changing ....
 new line!!!
+>>>>>>>>>>>>>>> nova linha de novo <<<<<<<<<<<<<<<<<<<<<<<
