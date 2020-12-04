@@ -2,3 +2,4 @@ linha01
 linha02  tst RB
 agora vai
 changing ....
+new line!!!
